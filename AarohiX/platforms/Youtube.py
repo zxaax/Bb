@@ -22,7 +22,6 @@ from yt_dlp import YoutubeDL
 import config
 from AarohiX.utils.database import is_on_off
 from AarohiX.utils.formatters import time_to_seconds, seconds_to_min
-from AarohiX.utils.decorators import asyncify
 
 
 def cookies():
