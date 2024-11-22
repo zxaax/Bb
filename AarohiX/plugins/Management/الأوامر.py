@@ -11,10 +11,10 @@ from AarohiX import (Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app)
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/e0e39b327dac30ee715dc.jpg",
+        photo=f"https://t.me/hamadddbott/3",
         caption=f"""**- أوامر التشغيل اتبع مايلي
         
- [— — — — — — — — — —](https://te.legra.ph/file/e0e39b327dac30ee715dc.jpg)
+ [— — — — — — — — — —](https://t.me/hamadddbott/3)
 ◇︰ تشغيل أو شغل : لبدء تشغيل السورة أو الأنشودة الإسلامية
 
 ◇︰ بينج : لقياس سرعة النت في البوت .
@@ -31,13 +31,13 @@ async def maker(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "‹ المكتبة السنية›", url=f"https://t.me/tmemgqa10"),
+                        "- تحديثـاتي 🧸", url=f"https://t.me/tmemgqa10"),
                     InlineKeyboardButton(
-                        "‹ ملة الإسلام ›", url=f"https://t.me/nlla0090"),
+                        "- مطوري", url=f"https://t.me/a_s_q"),
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/zxhduf"),
+                        "ضيفني لـ مجموعتك", url=f"https://t.me/WQHQBot?startgroup=Commands&admin=ban_users+restrict_members+delete_messages+add_admins+change_info+invite_users+pin_messages+manage_call+manage_chat+manage_video_chats+promote_members"),
                 ],       
             ]
         ),
@@ -49,7 +49,7 @@ async def maker(client: Client, message: Message):
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/e0e39b327dac30ee715dc.jpg",
+        photo=f"https://t.me/hamadddbott/3",
         caption=f"""**
 - أوامر التفعيل اتبع ما يلي :
 
@@ -57,7 +57,7 @@ async def maker(client: Client, message: Message):
 
 ↫ أضف البوت إلى مجموعتك
 ↫ ارفعه مُشرِفًا
-↫ سيتم انضمام الحساب المساعد تلقائيًا
+↫ سيتم انضمام الحساب المساعد تلقائيًًا
 ↫ أرسل تشغيل + اسم السورة أو الأنشودة
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -66,11 +66,11 @@ async def maker(client: Client, message: Message):
                     InlineKeyboardButton(
                         "‹ السورس ›", url=f"https://t.me/Tepthon"),
                     InlineKeyboardButton(
-                        "‹ الدعم ›", url=f"https://t.me/Tepthon_Help"),
+                        "‹ الدعم ›", url=f"https://t.me/Tepthon_Support"),
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"https://t.me/PPF22"),
+                        "‹ المطور ›", url=f"https://t.me/zxaax"),
                 ],       
             ]
         ),
@@ -125,13 +125,13 @@ async def maker(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "‹ المكتبة السنية›", url=f"https://t.me/tmemgqa10"),
+                        "تحديثاتـي .", url=f"https://t.me/Tepthon"),
                     InlineKeyboardButton(
-                        "‹ ملة الإسلام›", url=f"https://t.me/nlla0090"),
+                        "ضيفني لمجموعتك ♥️", url=f"https://t.me/WQHQBot?startgroup=Commands&admin=ban_users+restrict_members+delete_messages+add_admins+change_info+invite_users+pin_messages+manage_call+manage_chat+manage_video_chats+promote_members"),
                 ],
                 [
                    InlineKeyboardButton(
-                        "‹ المطور ›", url=f"t.me/zxhduf"),
+                        "‹ المطور ›", url=f"t.me/zxaax"),
                 ],       
             ]
         ),
